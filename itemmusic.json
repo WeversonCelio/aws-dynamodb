@@ -1,0 +1,6 @@
+{
+    "Artist": { "S": "Jao"},
+    "SongTitle" : {"S": "Tenpos de Gloria"},
+    "AlbumTitle": {"S": "Pirata"},
+    "SongYear": {"S": "2021"}
+}

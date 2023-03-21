@@ -1,0 +1,34 @@
+{
+    "Music":[
+        {
+            "PutRequest": {
+                "Item":{
+                    "Artist": { "S": "Jao"},
+                    "SongTitle" : {"S": "Coringa"},
+                    "AlbumTitle": {"S": "Pirata"},
+                    "SongYear": {"S": "2021"}
+                }
+            }
+        }, 
+        {
+            "PutRequest": {
+                "Item":{
+                    "Artist": { "S": "Jao"},
+                    "SongTitle" : {"S": "Monstros"},
+                    "AlbumTitle": {"S": "Lobos"},
+                    "SongYear": {"S": "2018"}
+                }
+            }
+        }, 
+        {
+            "PutRequest": {
+                "Item":{
+                    "Artist": { "S": "Jao"},
+                    "SongTitle" : {"S": "A Última Noite"},
+                    "AlbumTitle": {"S": "Anti-Heroi"},
+                    "SongYear": {"S": "2019"}
+                }
+            }
+        }
+    ]
+}
